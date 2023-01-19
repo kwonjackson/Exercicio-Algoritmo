@@ -1,0 +1,42 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Comic Sans MS', cursive; 
+    background-color: #fadadd; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+ 
+  main {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 2px 2px #f5b6ff;
+    border-radius: 20px;
+  }
+  
+  
+  img {
+    border-radius: 50%;
+  }
+
+  img:hover {
+    transform: scale(1.1);
+    box-shadow: 3px 3px #f5b6ff;
+  }
+
+  ul{
+    list-style: none;
+  }
+
+  .container {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+
+  /*PELO SANGUE DE JESUS COMO EU ALINHO MINHAS LISTAS E MEUS TITULOS AAAAAAAAAAAA*/
